@@ -1,2 +1,1 @@
-# Ant-Food-Reachability
-Code to determine if an ant can reach a food source in a grid
+Download the file to see the assissment 
